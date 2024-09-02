@@ -105,7 +105,3 @@ Durante o desenvolvimento, seguimos as práticas recomendadas de código limpo e
 ## 📄 Licença
 
 Este projeto é de uso acadêmico e não possui uma licença específica.
-
----
-
-Desenvolvido com ❤️ por [FIAP Checkpoints](https://www.fiap.com.br/) - 2024.
