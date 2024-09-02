@@ -1,11 +1,12 @@
 import { Link } from 'react-router-dom';
 import './Styles.css';
+import ball from '../../../public/img/ball.png'
 
 function Nav() {
     return (
         <header className="header">
             <div className="logo">
-                <img src="/path/to/logo.png" alt="Logo da Loja de Esportes" />
+                <img src={ball} alt="Logo da Loja de Esportes" />
                 <h1>Loja de Esportes</h1>
             </div>
             <nav className="nav">
