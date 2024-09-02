@@ -1,7 +1,7 @@
 function About() {
     return(
         <>
-            <h1>teste about</h1>
+            <h1>about section</h1>
         </>
     )
 }
