@@ -15,9 +15,8 @@ A Loja de Esportes é uma aplicação web onde os usuários podem navegar por di
 
 ## 📦 Tecnologias Utilizadas
 
-- **React:** Biblioteca JavaScript para construção de interfaces de usuário.
+- **React JS:** Biblioteca JavaScript para construção de interfaces de usuário.
 - **CSS:** Estilização de componentes para um layout moderno e responsivo.
-- **JavaScript:** Lógica da aplicação e manipulação de dados.
 
 ## 👥 Integrantes do Grupo
 
